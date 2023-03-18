@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_text">Generate PDF</string>
+    <string name="graph_1_txt">Graph 1:-</string>
+    <string name="graph_2_txt">Graph 2:-</string>
+    <string name="data_1">Data 1</string>
+    <string name="data_2">Data 2</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PdfGenByAkram</string>
+    <string name="button_text">Generate PDF</string>
+    <string name="summary_txt">Summary:-</string>
+    <string name="graph_1_txt">Graph 1:-</string>
+    <string name="graph_2_txt">Graph 2:-</string>
+    <string name="data_1">D1</string>
+    <string name="data_2">D2</string>
+</resources>
